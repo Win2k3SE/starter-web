@@ -6,6 +6,7 @@ This is a super simple file! Yeah!
 ## Purpose
 
 Sample website with plenty of files for demos
+Changing purpose
 
 ## Deployment
 
