@@ -13,6 +13,11 @@ Now editing line 9
 This is me deployment section I just added
 Editing Deployment section
 
+## How to Contribute
+
+Please fork this repository and then issue a Pull Requests 
+for review
+
 ## Another Section
 
 Here I added another section
