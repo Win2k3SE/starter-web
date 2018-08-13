@@ -6,7 +6,7 @@ Fucking up with readme file
 ## Purpose
 
 Sample website with plenty of files for demos
-Now editing line 9
+Experiments with rebasing
 
 ## Deployment
 
