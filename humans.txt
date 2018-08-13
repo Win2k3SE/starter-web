@@ -3,11 +3,11 @@
 
 # TEAM
 
-    Miha Zverec -- tester -- @mzverev
+    Miha Zverev -- tester -- @mzverev
 
 # THANKS
 
-    <name>
+    All my non-existant friends!
 
 # TECHNOLOGY COLOPHON
 
