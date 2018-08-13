@@ -17,3 +17,6 @@ Editing Deployment section
 
 Here I added another section
 Editing Another Section
+
+## Copyright
+Copyright notice
