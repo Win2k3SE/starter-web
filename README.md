@@ -20,3 +20,6 @@ Editing Another Section
 
 ## Copyright
 Copyright notice
+
+## Yet another shiny new section
+It's right here
